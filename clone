@@ -1,0 +1,2 @@
+$ git clone --bare https://github.com/cvblab/retina_dataset.git
+# Makes a bare clone of the external repository in a local directory
